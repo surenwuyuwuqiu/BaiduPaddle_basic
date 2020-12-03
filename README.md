@@ -1,0 +1,2 @@
+# BaiduPaddle_basic
+2020_11_Learn on AIStudio_about ImageSegmentation
